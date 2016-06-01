@@ -25,7 +25,7 @@ html()
 			.add(
 			p("Heeeej!")
 			)
-.setId("div1").setStyle(style().backgroundColor("blue").padding("9%"))
+.setId("div1").setStyle(style().backgroundColor("blue").padding("2%"))
 		)
 		.add(
 		div()
@@ -39,7 +39,7 @@ html()
 			.add(
 			p("Tjäna!")
 			)
-.setId("div3")
+.setId("div3").setStyle(style().width("9%"))
 		)
 		.add(
 		div()
