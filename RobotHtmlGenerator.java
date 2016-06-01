@@ -39,7 +39,7 @@ html()
 			.add(
 			p("Tjäna!")
 			)
-.setId("div3").setStyle(style().padding("7%"))
+.setId("div3").setStyle(style().padding("7%").backgroundColor("blue"))
 		)
 		.add(
 		div()
