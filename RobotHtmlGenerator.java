@@ -44,11 +44,11 @@ html()
 			.add(
 			p("Coolio!")
 			)
-.setId("div2").setStyle(style().backgroundColor("green"))
+.setId("div2").setStyle(style().backgroundColor("green")margin("0%"))
 		)
 		.add(
 		div()
-.setId("div3")
+.setId("div3").setStyle(style().float("left"))
 		)
 		.add(
 		div()
