@@ -25,33 +25,27 @@ html()
 			.add(
 			p("Heeeej!")
 			)
-			.add(
-			p("Heeeej!")
-			)
-			.add(
-			p("Tjäna!")
-			)
-			.add(
-			p("Tjäna!")
-			)
-			.add(
-			p("Tjäna!")
-			)
-.setId("div1").setStyle(style().backgroundColor("blue"))
+.setId("div1").setStyle(style().backgroundColor("orange"))
 		)
 		.add(
 		div()
 			.add(
 			p("Coolio!")
 			)
-.setId("div2").setStyle(style().backgroundColor("green")margin("0%"))
+.setId("div2").setStyle(style().backgroundColor("green"))
 		)
 		.add(
 		div()
-.setId("div3").setStyle(style().float("left"))
+			.add(
+			p("Tjäna!")
+			)
+.setId("div3")
 		)
 		.add(
 		div()
+			.add(
+			p("Kalaspuffar")
+			)
 .setId("div4")
 		)
 
