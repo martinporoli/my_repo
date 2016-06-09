@@ -46,7 +46,7 @@ html()
 			.add(
 			p("Kalaspuffar")
 			)
-.setId("div4")
+.setId("div4").setStyle(style().float("right"))
 		)
 
 	)
