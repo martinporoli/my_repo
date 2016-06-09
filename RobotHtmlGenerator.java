@@ -25,7 +25,7 @@ html()
 			.add(
 			p("Heeeej!")
 			)
-.setId("div1").setStyle(style().color("blue"))
+.setId("div1").setStyle(style().color("blue").setFloat("right"))
 		)
 		.add(
 		div()
