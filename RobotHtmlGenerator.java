@@ -32,7 +32,7 @@ html()
 			.add(
 			p("Coolio!")
 			)
-.setId("div2")
+.setId("div2").setStyle(style().backgroundColor("yellow"))
 		)
 		.add(
 		div()
