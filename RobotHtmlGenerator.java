@@ -25,7 +25,7 @@ html()
 			.add(
 			p("Heeeej!")
 			)
-.setId("div1")
+.setId("div1").setStyle(style().backgroundColor("white"))
 		)
 		.add(
 		div()
