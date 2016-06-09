@@ -25,7 +25,7 @@ html()
 			.add(
 			p("Heeeej!")
 			)
-.setId("div1").setStyle(style().fontSize("112%"))
+.setId("div1").setStyle(style().fontSize("112%").color("orange"))
 		)
 		.add(
 		div()
@@ -39,7 +39,7 @@ html()
 			.add(
 			p("Tjäna!")
 			)
-.setId("div3")
+.setId("div3").setStyle(style().fontSize("120%"))
 		)
 		.add(
 		div()
