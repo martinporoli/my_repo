@@ -32,7 +32,7 @@ html()
 			.add(
 			p("Coolio!")
 			)
-.setId("div2").setStyle(style().margin("3%"))
+.setId("div2").setStyle(style().margin("3%").fontSize("125%").setFloat("left"))
 		)
 		.add(
 		div()
